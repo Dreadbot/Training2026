@@ -16,7 +16,7 @@ public class Datatype {
         // Then you can assign later
         x = 2;
         y = 10;
-        x = 5; // This will override the previous instantiation
+        x = 5; // This will override the previous number
 
         // Basic Operations
         int add = x + y;

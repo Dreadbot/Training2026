@@ -9,7 +9,7 @@ public class Datatype {
         boolean bool = true;
         String str = "Hello";
 
-        // You can declare variables without instantiating them
+        // You can declare variables without assigning them
         int x;
         int y;
 

@@ -1,3 +1,5 @@
+package lessons.lesson2;
+
 public class LogicalOperators {
     public static void main(String[] args) {
         int x = 5;
